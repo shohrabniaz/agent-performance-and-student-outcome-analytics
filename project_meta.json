@@ -1,10 +1,17 @@
 {
-  "seq": 60,
   "title": "Agent Performance and Student Outcome Analytics",
+  "old_slug": "agent-performance-and-student-outcome-analytics",
   "slug": "agent-performance-and-student-outcome-analytics",
   "folder": "Agent_Performance_And_Student_Outcome_Analytics",
   "kind": "analytics",
-  "body_words": 237,
+  "body_words": 306,
+  "source": "MICT Academic",
   "project_id": "Academic Project 9",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
